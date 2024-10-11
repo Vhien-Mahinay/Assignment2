@@ -13,9 +13,9 @@ print(f"Your Average Grade is: {Average:.2f}")
 
 #Checking if passed or failed
 if Average >= 75:
-    print("Passed")
+    print("You Passed!")
 else:
-    print("Failed")
+    print("You Failed.")
 
 
 
